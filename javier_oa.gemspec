@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Gem for personal use}
   spec.description   = %q{Gem for personal use}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://javotesttime.herokuapp.com/"
   spec.license       = "MIT"
 
   
