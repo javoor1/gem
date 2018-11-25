@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-JavierOrtizTool::Renderer.copyright("Javier Ortiz Arellano", "Programado en Ruby on Rails" )
+JavierOa::Renderer.copyright("Javier Ortiz Arellano", "Programado en Ruby on Rails" )
 ``
 ## Development
 
