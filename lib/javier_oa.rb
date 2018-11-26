@@ -1,5 +1,5 @@
 require "javier_oa/version"
-require "renderer"
+require "javier_oa/renderer"
 
 module JavierOa
 end
